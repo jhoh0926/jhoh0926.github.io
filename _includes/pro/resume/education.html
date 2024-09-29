@@ -15,14 +15,26 @@
       {% endif %}
       <h3 class="h4 faded" {% if edu.endDate.size > 0 %}property="alumniOf" typeof="EducationalOrganization"{% endif %}>
         {% capture study_type %}<span class="bc">{{ edu.studyType }}</span>{% endcapture %}
+        {% capture city %}<span class="bc">{{ edu.city }}</span>{% endcapture %}
+        {% capture country %}<span class="bc">{{ edu.country }}</span>{% endcapture %}
         {% capture area %}<span class="bc">{{ edu.area }}</span>{% endcapture %}
+        {% capture thesis %}<span class="bc">{{ edu.thesis }}</span>{% endcapture %}
+        {% capture dissertation %}<span class="bc">{{ edu.dissertation }}</span>{% endcapture %}
+        
+        {% capture advisor %}<span class="bc">{{ edu.advisor }}</span>{% endcapture %}
         {% capture institution %}<span class="bc" {% if edu.endDate.size > 0 %}property="name"{% endif %}>{{ edu.institution }}</span>{% endcapture %}
         {% capture gpa %}<span class="bc">{{ edu.gpa }}</span>{% endcapture %}
         {{ strings.resume.education_title
-          | default:"<!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->"
+          | default:"<!--study_type--> - <!--area--> , <!--institution--> , <!--city-->, South Korea | Thesis : <!--thesis--> | Advisor : <!--advisor-->"
           | replace:"<!--study_type-->", study_type
           | replace:"<!--area-->", area
+          | replace:"<!--city-->", city
+          | replace:"<!--country-->", country
           | replace:"<!--institution-->", institution
+          | replace:"<!--thesis-->", thesis
+          | replace:"<!--dissertation-->", dissertation
+          
+          | replace:"<!--advisor-->", advisor
           | replace:"<!--gpa-->", gpa
         }}
       </h3>

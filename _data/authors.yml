@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Ji-Hoon> <Oh>
+  email:             <jhoh0926@gmai.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,12 +27,12 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
+    twitter:         <https://x.com/jhoh0926>
+    github:          <jhoh0926>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    # google:          <number>
+    google:          <https://scholar.google.com/citations?user=GkoNooMAAAAJ&hl=en>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        <https://www.linkedin.com/in/ji-hoon-oh-212ab6253/>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
