@@ -49,24 +49,26 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             CV
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projects
+#    url:               /projects/
+  - title:             Cv
     url:               /resume/
   - title:             Publications
     url:               /publications/
+  - title:             tmp
+    url:               /tmp/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
@@ -341,8 +343,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-favicon: ./favicon.ico
-apple_touch_icon: ./icon-192x192.png
+favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/img/logo.pns
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -427,6 +429,6 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+#      links:
+#        - title: Project Link
+#          url: https://example.com

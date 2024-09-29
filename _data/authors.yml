@@ -27,12 +27,12 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <https://x.com/jhoh0926>
-    github:          <jhoh0926>
+#    twitter:         <https://x.com/jhoh0926>
+    github:          /jhoh0926/
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-    google:          <https://scholar.google.com/citations?user=GkoNooMAAAAJ&hl=en>
+    google:          /citations?user=GkoNooMAAAAJ&hl=en/
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <https://www.linkedin.com/in/ji-hoon-oh-212ab6253/>
+    linkedin:        /ji-hoon-oh-212ab6253/
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

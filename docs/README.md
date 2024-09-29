@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: tmp
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
@@ -12,10 +12,15 @@ Here you should be able to find everything you need to know to accomplish the mo
 While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
 {:.note}
 
+# My Recent Papers
+***
+## [__Oh et al. 2024__, __*Nature Climate Change*__ ](https://www.nature.com/articles/s41558-024-01928-0) <br>
 
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+[![paper_01](./../assets/img/Oh.2024.NCC.png)](https://www.nature.com/articles/s41558-024-01928-0)
+
+> This paper ~~~
+
+<!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
@@ -34,7 +39,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[install]: install.md
+[install]: ./../example/_posts/2020-07-03-introducing-hydejack-9.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
@@ -45,4 +50,4 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [advanced]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+[CHANGELOG]: ../CHANGELOG.md-->
