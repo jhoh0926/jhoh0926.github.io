@@ -1,7 +1,4 @@
+# Publications
+###  __†__ : co-first author, __*__ : corresponding author
 ---
-layout: grid
-title: Publications
-description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-grouped: trus
----
+<span style="font-size:250%">dfsdfs</span>  
