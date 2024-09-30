@@ -10,7 +10,7 @@ permalink: /docs/
 <img src="./../assets/img/picture.jpeg" width="500" height="400"/>
 
 Hello, and welcome! I'm __Ji-Hoon Oh__, currently a postdoctoral research fellow at the [Scripps Institution of Oceanography (SIO)](https://scripps.ucsd.edu), working with [Prof. Shang-Ping Xie](https://scholar.google.com/citations?user=vGEx6O0AAAAJ&hl=ko&oi=ao). 
-Prior to this, I was a postdoctoral researcher at Seoul National University (SNU). I hold both a M.S. and Ph.D. from Pohang University of Science and Technology (POSTECH), where I studied under [Prof. Jong-Seong Kug](https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en). 
+Prior to this, I was a postdoctoral researcher at Seoul National University (SNU). I hold both M.S. and Ph.D. from Pohang University of Science and Technology (POSTECH), where I studied under [Prof. Jong-Seong Kug](https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en). 
 For more details on my academic background, please visit the [CV section](https://jhoh0926.github.io/resume/).
 {:.note}
 <img src="./../assets/img/scripps_logo.png" width="600" height="400"/>
