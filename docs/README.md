@@ -1,25 +1,32 @@
 ---
 layout : grid
-title: tmp
+title: Ji-Hoon Oh's webpage
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
 permalink: /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+<img src="./../assets/img/picture.jpeg" width="500" height="400"/>
 
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
+Hello, and welcome! I'm __Ji-Hoon Oh__, currently a postdoctoral research fellow at the [Scripps Institution of Oceanography (SIO)](https://scripps.ucsd.edu), working with [Prof. Shang-Ping Xie](https://scholar.google.com/citations?user=vGEx6O0AAAAJ&hl=ko&oi=ao). 
+Prior to this, I was a postdoctoral researcher at Seoul National University (SNU). I hold both a M.S. and Ph.D. from Pohang University of Science and Technology (POSTECH), where I studied under [Prof. Jong-Seong Kug](https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en). 
+For more details on my academic background, please visit the [CV section](https://jhoh0926.github.io/resume/).
 {:.note}
 
-# My Recent Papers
-***
-## [__Oh et al. 2024__, __*Nature Climate Change*__ ](https://www.nature.com/articles/s41558-024-01928-0) <br>
+---
+<br>
+ <span style="color: DodgerBlue; font-size:180%"> __New Paper Alerts!__</span>
 
-[![paper_01](./../assets/img/Oh.2024.NCC.png)](https://www.nature.com/articles/s41558-024-01928-0)
+<span style="font-size:130%"> [__Oh et al. 2024__, __*Nature Climate Change*__](https://www.nature.com/articles/s41558-024-01928-0)</span> <br>
 
-> This paper ~~~
+[![paper_01](./../assets/img/Oh.2024.NCC.01.png)](https://www.nature.com/articles/s41558-024-01928-0)
+[![paper_02](./../assets/img/Oh.2024.NCC.02.png)](https://www.nature.com/articles/s41558-024-01928-0)
+
+This paper blah blah~~
+{:.note}
+
+
 
 <!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.

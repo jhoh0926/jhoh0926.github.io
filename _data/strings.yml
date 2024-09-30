@@ -116,7 +116,7 @@ resume:
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
 #  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
-  education_title:     <!--study_type--> - <!--area--> , <!--institution--> , <!--city--> , <!--country--> (advisor | <!--advisor-->)
+  education_title:     <!--study_type--> - <!--area-->, <!--institution--> <br> <!--city-->, <!--country--> <br> (advisor | <!--advisor-->) <br><br> <!--thesis--> 
   courses:             Courses
   awards:              Awards
   awards_title:        <!--title--> from <!--awarder-->

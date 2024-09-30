@@ -35,8 +35,12 @@ __<U>J.-H. Oh</U>__, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xi
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
+<span style="color: DodgerBlue; font-size:120%"> __2020__</span>  
+
 1.	Impact of Antarctic meltwater forcing on East Asian climate under greenhouse warming (2020), __Geophysical Research Letters__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089951)]__</span>  
 __<U>J.-H. Oh</U>__, W.-S. Park, H.-G. Lim, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup>
+
+<span style="color: DodgerBlue; font-size:120%"> __2022__</span>  
 
 2.	Hysteresis of intertropical convergence zone to CO2 forcing (2022), __Nature Climate Change__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span>    
 J.-S. Kug<sup>__\*†__</sup>, __<U>J.-H. Oh</U>__<sup>__†__</sup>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
@@ -47,11 +51,15 @@ __<U>J.-H. Oh</U>__, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug<sup>__\
 4.	Centennial memory of the Arctic Ocean for future Arctic climate recovery in response to carbon dioxide removal (2022), __Earth’s Future__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002804)]__</span>    
 __<U>J.-H. Oh</U>__, S.-I. An, J. Shin, J.-S. Kug<sup>__\*__</sup>
 
+<span style="color: DodgerBlue; font-size:120%"> __2023__</span>  
+
 5.	What controls the future phytoplankton change over Yellow and East China Seas under global warming? (2023), __Frontiers in Marine Science__ <span style="color: DodgerBlue"> __[[link](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1010341/full)]__</span>    
 D.-G. Lee, __<U>J.-H. Oh</U>__, K.-M. Noh, E.-Y. Kwon, Y.-H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 6.	Increase in convective Extreme El Nino events in the CO2 removal scenario (2023), __Science Advances__ <span style="color: DodgerBlue"> __[[link](https://www.science.org/doi/10.1126/sciadv.adh2412)]__</span>    
 Pathirana. G, __<U>J.-H. Oh</U>__, W. Cai, S.-I. An, S.-K. Min, S.-Y. Jo, J. Shin, J.-S. Kug<sup>__\*__</sup>
+
+<span style="color: DodgerBlue; font-size:120%"> __2024__</span>  
 
 7.	Role of Atlantification in enhanced primary productivity in the Barents Sea (2024), __Earth’s Future__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003709?af=R)]__</span>    
 K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, J.-S. Kug<sup>__\*__</sup>
