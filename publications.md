@@ -11,26 +11,32 @@ description: >
 1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (In revision)  
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
-2.	Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal, __Communications Earth & Environment__ (In revision)  
-S. Wang, Y. Shin, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
-
-3.	Emergence of South Atlantic Convergence Zone-ENSO connection under global warming, __Communications Earth & Environment__ (In revision)  
+2.	Emergence of South Atlantic Convergence Zone-ENSO connection under global warming, __Communications Earth & Environment__ (In revision)  
 J.-H. Park<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, Y.-M. Yang, H.-J. Park, G.-I. Kim, __<U>J.-H. Oh</U>__, Chao. Liu, S.-I. An
 
-4.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__ (in revision)  
+3.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__ (in revision)  
 H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
 
-5.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in revision)  
+4.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in revision)  
 __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-7.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in revision)  
+5.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in revision)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
 6.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Progress in Oceanography__ (in revision)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
-8.	Amplified climate extremes in North America and Europe upon crossing the tipping point of Atlantic Meridional Overturning Circulation collapse (in Prep)  
+7.	Amplified climate extremes in North America and Europe upon crossing the tipping point of Atlantic Meridional Overturning Circulation collapse (in Prep)  
 __<U>J.-H. Oh</U>__, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
+
+8.	Reconciled early-warning signal in observation and model supports nearing tipping of the Atlantic Meridional Overturning Circulation (in Prep)  
+Y. Shin, __<U>J.-H. Oh</U>__,  N. Boers, S. Bathiany, M. Arthun, H. Kim, H. Lee,  J.-S. Kug<sup>__\*__</sup>
+
+9.	The impact of urbanization on vegetation and climate on the island of Borneo, Indonesia (in Prep)  
+D. Lee, S.-W. Park, __<U>J.-H. Oh</U>__,  J.-S. Kug<sup>__\*__</sup>
+
+10.	Why is sea level irreversible?: role of SST pattern induced by deep ocean warming (in Prep)  
+S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
@@ -73,5 +79,8 @@ Y. Shin, X. Geng, __<U>J.-H. Oh</U>__, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*_
 10. Deep ocean warming-induced El Niño changes (2024), __Nature Communications__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
 G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. Kug<sup>__\*__</sup>
 
-11. Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean, __Environmental Research Communications__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
+11. Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean, __Communications Earth & Environment__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
 D.-G. Lee, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
+
+12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal, __Environmental Research Communications__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
+S. Wang, Y. Shin, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
