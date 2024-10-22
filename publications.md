@@ -20,10 +20,10 @@ H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>
 4.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in revision)  
 __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-5.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in revision)  
+5.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (submitted)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-6.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Progress in Oceanography__ (in revision)  
+6.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Science of the Total Environment__ (submitted)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 7.	Amplified climate extremes in North America and Europe upon crossing the tipping point of Atlantic Meridional Overturning Circulation collapse (in Prep)  
@@ -39,7 +39,7 @@ D. Lee, S.-W. Park, __<U>J.-H. Oh</U>__,  J.-S. Kug<sup>__\*__</sup>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 ---
-<span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
+<span style="color: DodgerBlue; font-size:150%"> __Published (12)__</span>  
 
 <span style="color: DodgerBlue; font-size:120%"> __2020__</span>  
 
