@@ -27,8 +27,10 @@ For more details on my academic background, please visit the [CV section](https:
 This paper blah blah~~
 {:.note}
 
-<!--## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.-->
+## A Free Blogging Theme
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+<!--posts-->
 
 <!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
