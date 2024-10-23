@@ -56,7 +56,7 @@ menu:
   - title:             Photos
     url:               /blog/
   - title:             Recent Papers
-    url:               /alerts/_lists/
+    url:               /alerts/
   
 #  - title:             tmp
 #    url:               /tmp/
