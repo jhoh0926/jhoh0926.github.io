@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               About me
+tagline:               Ji-Hoon Oh 오지훈 (he/him)
 
 # A list of keywords for your blog
 keywords:              []
@@ -55,8 +55,8 @@ menu:
     url:               /publications/
   - title:             Photos
     url:               /blog/
-#  - title:             Projects
-#    url:               /projects/
+  - title:             Recent Papers
+    url:               /projects/
   
 #  - title:             tmp
 #    url:               /tmp/
