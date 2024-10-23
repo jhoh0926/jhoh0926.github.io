@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: 2020.02.11
 image: 
   path: /assets/img/2020.coral_pink_sand_dunes.jpeg
