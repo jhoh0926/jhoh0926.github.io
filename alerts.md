@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: blog
 title: alerts
 description: >
   The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
