@@ -30,8 +30,6 @@ This paper blah blah~~
 ## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
-<!--posts-->
-
 <!--* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
