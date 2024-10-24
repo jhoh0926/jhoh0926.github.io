@@ -58,7 +58,7 @@ G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. 
 Y. Shin, X. Geng, __<U>J.-H. Oh</U>__, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup> 
 
 8.	Emergent climate change patterns originating from deep ocean warming in climate mitigation scenarios (2024), __Nature Climate Change, 14, 3, 260-266__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-024-01928-0)]__</span>    
-__<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
 
 7.	Role of Atlantification in enhanced primary productivity in the Barents Sea (2024), __Earth’s Future, 12, 1, e2023EF003709__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003709?af=R)]__</span>    
 K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, J.-S. Kug<sup>__\*__</sup>
@@ -74,10 +74,10 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, K.-M. Noh, E.-Y. Kwon, Y.-H. Kim, J.-S. Kug<sup>
 <span style="color: DodgerBlue; font-size:120%"> __2022__</span>
 
 4.	Centennial memory of the Arctic Ocean for future Arctic climate recovery in response to carbon dioxide removal (2022), __Earth’s Future, 10, 8, e2022EF002804__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002804)]__</span>    
-__<U>J.-H. Oh</U>__, S.-I. An, J. Shin, J.-S. Kug<sup>__\*__</sup>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-I. An, J. Shin, J.-S. Kug<sup>__\*__</sup>
 
 3.	Antarctic meltwater-induced dynamical changes in phytoplankton in the Southern Ocean (2022), __Environmental Research Letters, 17, 2, 024022__ <span style="color: DodgerBlue"> __[[link](https://iopscience.iop.org/article/10.1088/1748-9326/ac444e)]__</span>    
-__<U>J.-H. Oh</U>__, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug<sup>__\*__</sup>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug<sup>__\*__</sup>
 
 2.	Hysteresis of intertropical convergence zone to CO2 forcing (2022), __Nature Climate Change, 12, 1, 47-53__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span>    
 J.-S. Kug<sup>__\*†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__†__</sup></span>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
@@ -85,4 +85,4 @@ J.-S. Kug<sup>__\*†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>
 <span style="color: DodgerBlue; font-size:120%"> __2020__</span>  
 
 1.	Impact of Antarctic meltwater forcing on East Asian climate under greenhouse warming (2020), __Geophysical Research Letters, 47, 21, e2020GL089951__ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089951)]__</span>  
-__<U>J.-H. Oh</U>__, W.-S. Park, H.-G. Lim, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, W.-S. Park, H.-G. Lim, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup>
