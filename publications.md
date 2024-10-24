@@ -49,7 +49,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
 11. Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean,  __Environmental Research Communications, 6, 10, 101006__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
-D.-G. Lee, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
+D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span><sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
 10. Deep ocean warming-induced El Niño changes (2024), __Nature Communications, 15, 1, 6225__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
 G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. Kug<sup>__\*__</sup>
