@@ -1,6 +1,6 @@
 ---
 layout: project
-title: <span style="font-size:150%">'Oh et al. 2024'</span>
+title: 'Oh et al. 2024'
 caption: First Author, published in __*Nature Climate Change*__
 description: >
   
