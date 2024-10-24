@@ -10,7 +10,7 @@ description: >
   <br>
   Journal : Nature Climate Change
   <br>
-  Authors : J.-H. Oh, J.-S. Kug*, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
+  Authors : __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
   
 date: '01-02-2024'
 image: 
