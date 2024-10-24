@@ -19,13 +19,7 @@ For more details on my academic background, please visit the [CV section](https:
 <br>
  <span style="color: DodgerBlue; font-size:180%"> __New Paper Alerts!__</span>
 
-<span style="font-size:130%"> [__Oh et al. 2024__, __*Nature Climate Change*__](https://www.nature.com/articles/s41558-024-01928-0)</span> <br>
-
-[![paper_01](./../assets/img/Oh.2024.NCC.01.png)](https://www.nature.com/articles/s41558-024-01928-0)
-[![paper_02](./../assets/img/Oh.2024.NCC.02.png)](https://www.nature.com/articles/s41558-024-01928-0)
-
-This paper blah blah~~
-{:.note}
+<span style="font-size:130%"> [If you're interested in my recent papers, click here!](https://jhoh0926.github.io/projects/)</span> <br>
 
 <!--## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.-->
