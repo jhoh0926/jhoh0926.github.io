@@ -54,7 +54,7 @@ D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup><
 10. Deep ocean warming-induced El Niño changes (2024), __Nature Communications, 15, 1, 6225__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
 G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. Kug<sup>__\*__</sup>
 
-9.	Fast and Slow Responses of Atlantic Meridional Overturning Circulation to Antarctic Meltwater Forcing (2024), __Geophysical Research Letters, 51, 9, e2024GL108272 __ <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108272)]__</span>    
+9.	Fast and Slow Responses of Atlantic Meridional Overturning Circulation to Antarctic Meltwater Forcing (2024), __Geophysical Research Letters, 51, 9, e2024GL108272__<span style="color: DodgerBlue">__[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108272)]__</span>    
 Y. Shin, X. Geng, __<U>J.-H. Oh</U>__, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup> 
 
 8.	Emergent climate change patterns originating from deep ocean warming in climate mitigation scenarios (2024), __Nature Climate Change, 14, 3, 260-266__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-024-01928-0)]__</span>    
