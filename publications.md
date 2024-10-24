@@ -46,10 +46,10 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 <span style="color: DodgerBlue; font-size:120%"> __2024__</span>  
 
 12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
-S. Wang, Y. Shin, __<U>J.-H. Oh</U>__<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
+S. Wang, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
 11. Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean,  __Environmental Research Communications, 6, 10, 101006__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
-D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span><sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
+D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
 10. Deep ocean warming-induced El Niño changes (2024), __Nature Communications, 15, 1, 6225__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
 G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. Kug<sup>__\*__</sup>
@@ -80,7 +80,7 @@ __<U>J.-H. Oh</U>__, S.-I. An, J. Shin, J.-S. Kug<sup>__\*__</sup>
 __<U>J.-H. Oh</U>__, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug<sup>__\*__</sup>
 
 2.	Hysteresis of intertropical convergence zone to CO2 forcing (2022), __Nature Climate Change, 12, 1, 47-53__ <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span>    
-J.-S. Kug<sup>__\*†__</sup>, __<U>J.-H. Oh</U>__<sup>__†__</sup>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
+J.-S. Kug<sup>__\*†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__†__</sup></span>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
 
 <span style="color: DodgerBlue; font-size:120%"> __2020__</span>  
 
