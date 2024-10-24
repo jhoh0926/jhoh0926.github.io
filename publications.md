@@ -18,7 +18,7 @@ J.-H. Park<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, Y.-M. Yang, H.-J. Park,
 H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
 
 4.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in minor revision)  
-__<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
 5.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in review)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
@@ -29,7 +29,7 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
  <span style="color: DodgerBlue; font-size:150%"> __In Progress / In Preparation__</span>  
 
 1.	Amplified climate extremes in North America and Europe upon crossing the tipping point of Atlantic Meridional Overturning Circulation collapse (in Prep)  
-__<U>J.-H. Oh</U>__, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
 
 2.	Reconciled early-warning signal in observation and model supports nearing tipping of the Atlantic Meridional Overturning Circulation (in Prep)  
 Y. Shin, __<U>J.-H. Oh</U>__,  N. Boers, S. Bathiany, M. Arthun, H. Kim, H. Lee,  J.-S. Kug<sup>__\*__</sup>
