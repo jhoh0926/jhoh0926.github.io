@@ -7,7 +7,7 @@ description: >
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
 date: 1 Jun 2020
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/2020.coral_pink_sand_dunes.jpeg
   srcset: 
     1920w: /assets/img/projects/qwtel.jpg
     960w:  /assets/img/projects/qwtel@0,5x.jpg
