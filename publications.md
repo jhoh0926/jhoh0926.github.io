@@ -45,7 +45,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2024__</span>  
 
-12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
+12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
 S. Wang, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
 11. Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean,  __Environmental Research Communications, 6, 10, 101006__ <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
