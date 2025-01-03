@@ -39,7 +39,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2024__</span>  
 
-13.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__, 15, 10010 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-54339-2)]__</span> 
+13.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__, 15, 10010 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-54339-2)]__</span>   
 H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
 
 12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
