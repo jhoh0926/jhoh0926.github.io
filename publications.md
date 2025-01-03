@@ -14,16 +14,13 @@ H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J
 2.	Emergence of South Atlantic Convergence Zone-ENSO connection under global warming, __Communications Earth & Environment__ (in major revision)  
 J.-H. Park<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, Y.-M. Yang, H.-J. Park, G.-I. Kim, __<U>J.-H. Oh</U>__, Chao. Liu, S.-I. An
 
-3.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__ (in minor revision)  
-H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
-
-4.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in minor revision)  
+3.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in minor revision)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-5.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in review)  
+4.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in review)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-6.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Biogeosciences__ (submitted)  
+5.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Biogeosciences__ (submitted)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
  <span style="color: DodgerBlue; font-size:150%"> __In Progress / In Preparation__</span>  
@@ -44,6 +41,9 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 <span style="color: DodgerBlue; font-size:150%"> __Published (12)__</span>  
 
 <span style="color: DodgerBlue; font-size:120%"> __2024__</span>  
+
+13.	Pervasive fire danger continued under a negative emission scenario, __Nature Communications__, 15, 10010 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-54339-2)]__</span> 
+H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
 
 12. Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
 S. Wang, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
