@@ -6,7 +6,7 @@ description: >
 --- 
 <!--sitemap: false-->
 ---
- <span style="color: DodgerBlue; font-size:150%"> __In Progress / Submitted__</span>  
+ <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
 1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (accepted)  
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
@@ -28,8 +28,6 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 
 7. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted)
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
-
- <span style="color: DodgerBlue; font-size:150%"> __In Progress / In Preparation__</span>  
 
 8.	Amplified climate variability in oceanic fronts in response to Atlantic Meridional Overturning Circulation collapse (in Prep)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
