@@ -8,30 +8,36 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress / Submitted__</span>  
 
-1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (in minor revision)  
+1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (accepted)  
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
-2.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse with carbon stabilization, __Nature Climate Change__ (in minor revision)  
+2.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
+D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
+
+3.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation, __Nature Climate Change__ (in revision)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-3.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (in review)  
+4.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (Under review)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-4.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Biogeosciences__ (submitted)  
-D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
+5.	Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __Nature Communications__ (Under review) 
+J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
+
+6.	Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted) 
+Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
+
+7. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted)
+J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
  <span style="color: DodgerBlue; font-size:150%"> __In Progress / In Preparation__</span>  
 
-1.	Amplified climate extremes in North America and Europe upon crossing the tipping point of Atlantic Meridional Overturning Circulation collapse (in Prep)  
+8.	Amplified climate variability in oceanic fronts in response to Atlantic Meridional Overturning Circulation collapse (in Prep)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
 
-2.	Reconciled early-warning signal in observation and model supports nearing tipping of the Atlantic Meridional Overturning Circulation (in Prep)  
-Y. Shin, __<U>J.-H. Oh</U>__,  N. Boers, S. Bathiany, M. Arthun, H. Kim, H. Lee,  J.-S. Kug<sup>__\*__</sup>
-
-3.	The impact of urbanization on vegetation and climate on the island of Borneo, Indonesia (in Prep)  
+9.	Biophysical impacts of urbanization on dry-period climate change and vegetation in Borneo island (in Prep)  
 D. Lee, S.-W. Park, __<U>J.-H. Oh</U>__,  J.-S. Kug<sup>__\*__</sup>
 
-4. Why is sea level irreversible?: role of SST pattern induced by deep ocean warming (in Prep)  
+10. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (in Prep)  
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 ---
