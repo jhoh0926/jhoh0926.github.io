@@ -11,7 +11,7 @@ description: >
 1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (accepted)  
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
-2.	Two different phytoplankton blooming mechanisms over the East Asian Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
+2.	Two different phytoplankton blooming mechanisms over the East Asias Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 3.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts, __Nature Climate Change__ (in revision)  
@@ -30,13 +30,13 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
 8.	Biophysical impacts of urbanization on climate change and vegetation in Borneo island (Submitted)  
-D. Lee, S.-W. Park, __<U>J.-H. Oh</U>__,  J.-S. Kug<sup>__\*__</sup>
+D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
 
 9. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (Submitted)  
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-10.	Amplified climate variability in oceanic fronts in response to Atlantic Meridional Overturning Circulation collapse (in Prep)  
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, G.-I. Kim, J.-H. Park, J.-S. Kug<sup>__\*__</sup>, S.-P. Xie
+10.	Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, B. Wu
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published (13)__</span>  
