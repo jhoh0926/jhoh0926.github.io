@@ -23,10 +23,10 @@ X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__<
 5.	Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __Nature Communications__ (Under review) 
 J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
-6.	Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted)
+6.	Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted) 
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-7. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted)
+7. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted) 
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
 8.	Biophysical impacts of urbanization on climate change and vegetation in Borneo island (Submitted)  
@@ -35,7 +35,7 @@ D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park
 9. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (Submitted)  
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-10.	Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
+10.	Oceanic fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, B. Wu
 
 ---
