@@ -4,7 +4,7 @@ title: 'Lee et al. 2024'
 caption: Corresponding Author, published in __*Environmental Research Communications*__
 description: >
   
-  Title : Delayed ENSO impact on phytoplankton variability over the Western- North Pacific Ocean
+  Title : Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean
   <br>
   Published year : 2024
   <br>
