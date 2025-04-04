@@ -6,33 +6,33 @@ description: >
 --- 
 <!--sitemap: false-->
 ---
- <span style="color: DodgerBlue; font-size:150%"> __In Progress (10)__</span>  
+ <span style="color: DodgerBlue; font-size:150%"> __In Progress (9)__</span>  
 
-2.	Two different phytoplankton blooming mechanisms over the East Asias Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
+1.	Two different phytoplankton blooming mechanisms over the East Asias Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
-3.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts, __Nature Climate Change__ (in revision)  
+2.	Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts, __Nature Climate Change__ (in revision)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-4.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (Under review)  
+3.	Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (Under review)  
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-5.	Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __Nature Communications__ (Under review) 
+4.	Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __Nature Communications__ (Under review) 
 J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
-6.	Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted) 
+5.	Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted) 
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-7. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted) 
+6. Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted) 
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
-8.	Biophysical impacts of urbanization on climate change and vegetation in Borneo island (Submitted)  
+7.	Biophysical impacts of urbanization on climate change and vegetation in Borneo island (Submitted)  
 D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
 
-9. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (Submitted)  
+8. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (Submitted)  
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-10.	Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
+9.	Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, B. Wu
 
 ---
@@ -40,7 +40,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (1)__</span>  
 
-14.	Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  
+'14'.	Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  
 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
