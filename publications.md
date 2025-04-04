@@ -8,9 +8,6 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress (10)__</span>  
 
-1.	Emergence of the ocean CO<sub>2</sub> uptake hole under global warming, __Nature Communications__ (accepted)  
-H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
-
 2.	Two different phytoplankton blooming mechanisms over the East Asias Marginal Seas during El Niño decaying summers, __Biogeosciences__ (accepted)  
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
@@ -35,11 +32,17 @@ D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park
 9. The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (Submitted)  
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-10.	Oceanic fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
+10.	Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in Prep)  
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, B. Wu
 
 ---
-<span style="color: DodgerBlue; font-size:150%"> __Published (13)__</span>  
+<span style="color: DodgerBlue; font-size:150%"> __Published (14)__</span>  
+
+<span style="color: DodgerBlue; font-size:120%"> __2025 (1)__</span>  
+
+14.	Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  
+<span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
+H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2024 (7)__</span>  
 
