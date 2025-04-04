@@ -40,18 +40,18 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (1)__</span>  
 
-14.  Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
+14.  Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming (2025), __Nature Communications__, 16, 3199  <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2024 (7)__</span>  
 
-13.  Pervasive fire danger continued under a negative emission scenario, __Nature Communications__, 15, 10010 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-54339-2)]__</span>   
+13.  Pervasive fire danger continued under a negative emission scenario (2024), __Nature Communications__, 15, 10010 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-54339-2)]__</span>   
 H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>J.-H. Oh</U>__, J.-S. Kug
 
-12.  Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal,  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
+12.  Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal (2024),  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
 S. Wang, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
-11.  Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean,  __Environmental Research Communications__, 6, 10, 101006 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
+11.  Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean (2024),  __Environmental Research Communications__, 6, 10, 101006 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
 D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
 10.  Deep ocean warming-induced El Niño changes (2024), __Nature Communications__, 15, 1, 6225 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
