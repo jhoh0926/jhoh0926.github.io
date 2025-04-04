@@ -40,7 +40,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (1)__</span>  
 
-'14'.	Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  
+_14_.	Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming, __Nature Communications__, 16, 3199  
 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
 
