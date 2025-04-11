@@ -20,7 +20,7 @@ D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park
 6.  Persistently amplified global terrestrial aridity under climate mitigation scenarios (Submitted)<br>
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
-5.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (Submitted)<br>
+5.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, __Science__ (Under review)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
 4.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __Nature Communications__ (Under review)<br>
