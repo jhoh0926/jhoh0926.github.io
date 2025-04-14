@@ -32,7 +32,7 @@ X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__<
 2.  Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts, __Nature Climate Change__ (in revision)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-1.  Two different phytoplankton blooming mechanisms over the East Asias Marginal Seas during El Niño decaying summers, __Biogeosciences__ (in revision)<br>
+1.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers, __Biogeosciences__ (accepted)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 ---
@@ -51,7 +51,7 @@ H.-J. Kim, J.-S. Kim<sup>__\*__</sup>, S.-I. An<sup>__\*__</sup>, J. Shin, __<U>
 12.  Fast recovery of North Atlantic sea level in response to atmospheric CO<sub>2</sub> removal (2024),  __Communications Earth & Environment__, 5, 652  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s43247-024-01835-4)]__</span>    
 S. Wang, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
-11.  Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean (2024),  __Environmental Research Communications__, 6, 10, 101006 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
+11.  Delayed ENSO impact on phytoplankton variability over the Western-North Pacific Ocean (2024),  __Environmental Research Communications__, 6, 10, 101006  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1088/2515-7620/ad8058)]__</span>    
 D.-G. Lee, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, J.-S. Kug<sup>__\*__</sup>
 
 10.  Deep ocean warming-induced El Niño changes (2024), __Nature Communications__, 15, 1, 6225 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-024-50663-9)]__</span>    
