@@ -11,10 +11,10 @@ description: >
 9.  Ocean fronts as hotspots of amplified climate variability shaped by AMOC collapse (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, B. Wu
 
-8.  The hidden driver of irreversible sea level rise: sea surface temperature patterns from deep ocean warming (submitted)<br>
+8.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (under review)<br>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-7.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island (submitted)<br>
+7.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (under review)<br>
 D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
 
 6.  Persistent global land aridification under climate mitigation scenarios, __Communications Earth & Environment__ (under review)<br>
@@ -29,7 +29,7 @@ J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</s
 3.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (under review)<br>
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-2.  Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts, __Nature Clisate Change__ (in revision)<br>
+2.  Forthcoming tipping point of Atlantic Meridional Overturning Circulation collapse despite climate mitigation efforts (submitted)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
 1.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers, __Biogeosciences__ (accepted)<br>
