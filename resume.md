@@ -10,7 +10,6 @@ left_column:
   - volunteer
   - education
   - awards
-  - grants
   - publications
   - references
 right_column:

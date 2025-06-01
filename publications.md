@@ -12,7 +12,7 @@ description: >
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
 9.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
-J.-S. Kug<sup>__\*__</sup>, Y. Shin, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
+J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
 8.  Abrupt amplification of uncertainty in Atlantic Meridional Overturning Circulation near its tipping point, __Nature Communications__ (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
