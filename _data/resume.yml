@@ -5,13 +5,13 @@ basics:
   name: "Ji-Hoon Oh"
   label: "Ph.D. in Climate Science"
   picture: "/assets/img/logo.png"
-  email: "jhoh0926@gmail.com / jhoh0926@ucsd.edu"
-  phone: "+82 10 7138 2580 (Korea) / +1 (619) 953 8419 (US)"
+  email: "jhoh0926@ucsd.edu"
+  phone: "(619) 953 8419"
   website: "https://jhoh0926.github.io"
   summary: >
-    My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. <br> In my free time, I enjoy not only research but also good drinks, experiencing great nature, going to the gym, and snowboarding. Feel free to reach out to me via email with any questions or inquiries.
+    My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. Beyond research, I enjoy going to the gym, snowboarding, and exploring the beautiful landscapes in and around San Diego and across California. Feel free to reach out to me via email with any questions or inquiries.
   location:
-    address: "Scripps Insitute of Oceanography, UC San Diego"
+    address: "Scripps Insitution of Oceanography, UC San Diego"
 #    postalCode: "92093"
     city: "La Jolla, San Diego"
     countryCode: "United States"
@@ -94,6 +94,12 @@ education:
     country: "South Korea"
     advisor: "Prof. Jong-Seong Kug"
 
+grants:
+  - title: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Meridional Overturning Circulation, PI, ~45,500 USD, RS-2025-02653909"
+    startDate: "2025-09-01"
+    endDate: "2026-08-30"
+    awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
+
 awards:
   - title: "Best Poster Award"
     date: "2019-06-01"
@@ -104,11 +110,11 @@ awards:
     date: "2023-04-01"
     awarder: "Korean Meteorological Society (KMS)"
 
-  - title: "Best Dissertation Award in the field of Natural Science (Sung-Kee Chung Award)"
+  - title: "Best Dissertation Award in the field of Natural Science (2023 Sung-Kee Chung Award)"
     date: "2024-02-01"
     awarder: "Pohang University of Science and Technology (POSTECH)"
     
-  - title: "Best Dissertation Award"
+  - title: "Best Doctoral Dissertation Award"
     date: "2024-10-01"
     awarder: "Korean Meteorological Society (KMS)"  
     
