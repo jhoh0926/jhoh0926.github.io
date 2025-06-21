@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: New Paper Alerts!
-show_collection: projects
+title: tmp
+show_collection: press
 description: >
   Here I introduce my recent papers! (from 2024)
 no_groups: true
