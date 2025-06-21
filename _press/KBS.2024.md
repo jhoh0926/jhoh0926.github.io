@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: press
 title: 'Korea Broadcasting System (KBS) 2024'
 caption: About __*Oh et al. 2024*__
 description: >
