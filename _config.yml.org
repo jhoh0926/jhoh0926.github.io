@@ -435,13 +435,3 @@ jekyll_compose:
 #      links:
 #        - title: Project Link
 #          url: https://example.com
-
-  presses:
-    output: true
-    permalink: /press/:path/
-
-  - scope:
-      path: ""
-      type: presses
-    values:
-      layout: press
