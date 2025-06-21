@@ -57,6 +57,8 @@ menu:
     url:               /blog/
   - title:             Recent Papers
     url:               /projects/
+  - title:             Press Interview
+    url:               /projects/
   
 #  - title:             tmp
 #    url:               /tmp/
