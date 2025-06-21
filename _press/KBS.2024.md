@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: 'Oh et al. 2024'
 caption: First Author, published in __*Nature Climate Change*__
 description: >
