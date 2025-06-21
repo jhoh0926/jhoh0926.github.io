@@ -32,12 +32,12 @@
   {% unless nsd %}vocab="http://schema.org/" typeof="CreativeWork" resource="{{ press.url | relative_url }}#press"{% endunless %}
   >
   <meta property="name" content="{{ press.title }}"/>
-  {% if image_base %}<meta property="image" content="{% include_cached smart-url url=image_base %}"/>{% endif %}
+  {% if image_base %}<meta property="image" content="{% include smart-url url=image_base %}"/>{% endif %}
 
   <a href="{{ press.url | relative_url }}" class="no-hover no-print-link flip-press" tabindex="-1">
     <div class="press-card-img aspect-ratio sixteen-nine flip-press-img {% unless screenshot %}fallback-img{% endunless %}">
       {% if screenshot %}
-        {% include_cached components/hy-img.html img=screenshot alt=press.title sizes=sizes width=864 height=486 %}
+        {% include components/hy-img.html img=screenshot alt=press.title sizes=sizes width=864 height=486 %}
       {% endif %}
     </div>
   </a>
