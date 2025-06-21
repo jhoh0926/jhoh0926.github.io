@@ -1,8 +1,8 @@
 ---
 layout: projects
-title: tmp
+title: Press Interview
 show_collection: press
 description: >
-  Here I introduce my recent papers! (from 2024)
+  Here, I highlight a media interview about my research!
 no_groups: true
 ---
