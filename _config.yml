@@ -58,7 +58,7 @@ menu:
   - title:             Recent Papers
     url:               /projects/
   - title:             Press Interview
-    url:               /presses/
+    url:               /press/
 #  
 #  - title:             tmp
 #    url:               /tmp/
@@ -164,11 +164,6 @@ defaults:
   # but we want them to be `WebPage`s:
   - scope:
       type:            projects
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            presses
     values:
       seo:
         type:          WebPage
@@ -311,10 +306,6 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-  presses:
-    permalink:         /presses/:path/
-    output:            true
-
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
@@ -436,13 +427,6 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    presss:
-      layout: press
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
