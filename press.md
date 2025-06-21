@@ -1,10 +1,8 @@
 ---
-layout: blog
-title: Blog
+layout: projects
+title: New Paper Alerts!
+show_collection: press
 description: >
   Here, I highlight a media interview about my research!
-last_modified_at: 2018-08-03
-no_link_title: false 
-no_excerpt: false 
-hide_image: false
+no_groups: true
 ---
