@@ -58,7 +58,7 @@ layout: base
     {% assign screenshot = press.screenshot | default:press.image %}
     <div class="img-wrapper lead aspect-ratio sixteen-nine {% unless screenshot %}fallback-img{% endunless %}">
       {% if screenshot %}
-        {% include_cached components/hy-img.html
+        {% include components/hy-img.html
           img=screenshot
           sizes="(min-width: 90em) 48rem, (min-width: 54em) 42rem, (min-width: 42em) 38rem, 100vw"
           alt=press.title
@@ -83,7 +83,7 @@ layout: base
 {% for addon in addons %}
   {% case addon %}
   {% when 'about' %}
-     {% include_cached components/about.html author=page.author %}
+     {% include components/about.html author=page.author %}
   {% when 'newsletter' %}
     {% include if-non-null try="pro/newsletter.html" %}
   {% when 'other' %}
