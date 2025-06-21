@@ -8,27 +8,27 @@ layout: base
 {% assign minor = version[1] | plus:0 %}
 {% assign patch = version[2] | plus:0 %}
 
-{% assign project = page %}
+{% assign press = page %}
 {% assign separator = site.data.strings.separator | default:"|" %}
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
-{% assign proj_format = site.data.strings.date_formats.project | default:"%Y" %}
+{% assign proj_format = site.data.strings.date_formats.press | default:"%Y" %}
 {% assign from_to_separator = strings.from_to_separator | default:strings.resume.from_to_separator | default:"–" %}
 
 <article
   id="press"
   class="page mb6"
   role="article"
-  {% unless nsd %}vocab="http://schema.org/" typeof="CreativeWork" resource="#project"{% endunless %}
+  {% unless nsd %}vocab="http://schema.org/" typeof="CreativeWork" resource="#press"{% endunless %}
   >
   <header>
-    <h1 class="page-title" property="name">{{ project.title }}</h1>
+    <h1 class="page-title" property="name">{{ press.title }}</h1>
 
     <p class="post-date heading">
       <span class="ellipsis mr1">
         {% if major >= 4 and minor >= 1 %}
-          {% assign parent = site.pages | find:"show_collection",project.collection %}
+          {% assign parent = site.pages | find:"show_collection",press.collection %}
         {% else %}
-          {% assign parent = site.pages | where:"show_collection",project.collection | first %}
+          {% assign parent = site.pages | where:"show_collection",press.collection | first %}
         {% endif %}
 
         {% if parent %}
@@ -37,10 +37,10 @@ layout: base
 
         {% unless site.hydejack.hide_dates %}
           {% if parent %}{{ separator }}{% endif %}
-          <time datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date:proj_format }}</time>
-          {% if project.end_date.size > 0 %}
+          <time datetime="{{ press.date | date_to_xmlschema }}">{{ press.date | date:proj_format }}</time>
+          {% if press.end_date.size > 0 %}
             {{ from_to_separator }}
-            <time datetime="{{ project.end_date | date_to_xmlschema }}">{{ project.end_date | date:proj_format }}</time>
+            <time datetime="{{ press.end_date | date_to_xmlschema }}">{{ press.end_date | date:proj_format }}</time>
           {% endif %}
         {% endunless %}
       </span>
@@ -48,20 +48,20 @@ layout: base
       <span class="ellipsis ml1">
         <span class="sr-only">{{ separator }} {{ site.data.strings.links | default:"Links" }}{{ site.data.strings.colon }}</span>
         <span class="{{ site.data.strings.links_icon | default:'icon-link' }}" title="{{ site.data.strings.links | default:'Links' }}"></span>
-        {% for link in project.links %}
+        {% for link in press.links %}
           <a class="external" href="{{ link.url }}" property="sameAs">{{ link.title }}</a>
           {% unless forloop.last %}{{ separator }}{% endunless %}
         {% endfor %}
       </span>
     </p>
 
-    {% assign screenshot = project.screenshot | default:project.image %}
+    {% assign screenshot = press.screenshot | default:press.image %}
     <div class="img-wrapper lead aspect-ratio sixteen-nine {% unless screenshot %}fallback-img{% endunless %}">
       {% if screenshot %}
         {% include_cached components/hy-img.html
           img=screenshot
           sizes="(min-width: 90em) 48rem, (min-width: 54em) 42rem, (min-width: 42em) 38rem, 100vw"
-          alt=project.title
+          alt=press.title
           property="image"
           width=864
           height=486
@@ -69,8 +69,8 @@ layout: base
       {% endif %}
     </div>
 
-    {% include components/message.html text=project.description hide=page.hide_description property="description" alt="" %}
-    {% if project.caption %}<meta property="disambiguatingDescription" content="{{ project.caption }}"/>{% endif %}
+    {% include components/message.html text=press.description hide=page.hide_description property="description" alt="" %}
+    {% if press.caption %}<meta property="disambiguatingDescription" content="{{ press.caption }}"/>{% endif %}
   </header>
 
   {{ content }}
@@ -78,7 +78,7 @@ layout: base
 
 {% include components/dingbat.html %}
 
-{% assign addons = page.addons | default:site.hydejack.project_addons %}
+{% assign addons = page.addons | default:site.hydejack.press_addons %}
 {% unless addons %}{% assign addons = "about,newsletter,other" | split:"," %}{% endunless %}
 {% for addon in addons %}
   {% case addon %}
@@ -87,7 +87,7 @@ layout: base
   {% when 'newsletter' %}
     {% include if-non-null try="pro/newsletter.html" %}
   {% when 'other' %}
-    {% include if-non-null try="pro/other-projects.html" %}
+    {% include if-non-null try="pro/other-presss.html" %}
   {% when 'comments' %}
     {% include body/comments.html %}
   {% else %}
