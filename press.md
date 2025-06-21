@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: press
 title: Press Interview
 show_collection: press
 description: >
