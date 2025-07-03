@@ -40,7 +40,7 @@ X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__<
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (2)__</span>  
 
-15.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers, __Biogeosciences__, 22, 13 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.5194/bg-22-3165-2025)]__</span>
+15.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers (2025), __Biogeosciences__, 22, 13  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.5194/bg-22-3165-2025)]__</span>   
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 14.  Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming (2025), __Nature Communications__, 16, 3199  <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
