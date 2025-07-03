@@ -8,40 +8,40 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-10.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (in prep)<br>
+9.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
-9.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
+8.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
-8.  Abrupt amplification of uncertainty in Atlantic Meridional Overturning Circulation near its tipping point, __Nature Communications__ (under review)<br>
+7.  Abrupt amplification of uncertainty in Atlantic Meridional Overturning Circulation near its tipping point, __Nature Communications__ (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-7.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (under review)<br>
+6.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (under review)<br>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-6.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (under review)<br>
+5.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (under review)<br>
 D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
 
-5.  Persistent global land aridification under climate mitigation scenarios, __Communications Earth & Environment__ (under review)<br>
+4.  Persistent global land aridification under climate mitigation scenarios, __Communications Earth & Environment__ (under review)<br>
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
-4.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, __Science__ (under review)<br>
+3.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, __Science__ (under review)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-3.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __npj Climate and Atmospheric Science__ (under review)<br>
+2.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __npj Climate and Atmospheric Science__ (under review)<br>
 J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
-2.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (under review)<br>
+1.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (under review)<br>
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
-
-1.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers, __Biogeosciences__ (accepted)<br>
-D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
-<span style="color: DodgerBlue; font-size:120%"> __2025 (1)__</span>  
+<span style="color: DodgerBlue; font-size:120%"> __2025 (2)__</span>  
+
+15.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers, __Biogeosciences__, 22, 13 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.5194/bg-22-3165-2025)]__</span>
+D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
 
 14.  Emergence of an oceanic CO<sub>2</sub> uptake hole under global warming (2025), __Nature Communications__, 16, 3199  <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-025-57724-7)]__</span>   
 H. Lee, K.-M. Noh, __<U>J.-H. Oh</U>__, S.-W. Park, Y. Shin<sup>__\*__</sup>., J.-S. Kug<sup>__\*__</sup>
