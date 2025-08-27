@@ -132,7 +132,9 @@ awards:
   - title: "Grant (RS-2025-02653909)"
     date: "2025-09-01"
     awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
-    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation, PI, ~43,000 USD, Sep 2025 - Aug 2026"
+    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation, Principal Investigator, ~43,000 USD, Sep 2025 - Aug 2026"
+    courses:
+        - "City / Country : Pohang, Republic of Korea"
     
 #publications:
 #  - name: "Video compression for 3d media"
@@ -172,6 +174,6 @@ interests:
 #  - name: "Marine Biogeochemical Circulation"
   
 references:
-  - name: "Peer Reviews"
+  - name: "Journal of Climate, Nature Climate Change"
     reference: >
-      Journal of Climate, Nature Climate Change
+      Peer Reviews
