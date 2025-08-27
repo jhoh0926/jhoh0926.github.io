@@ -67,7 +67,7 @@ education:
     endDate: "2019-02-22"
 #    city: "Pusan"
 #    country: "Republic of Korea"
-    course:
+    courses:
         - "City / Country : Pusan, Republic of Korea"
         - "Mandatory Military Service : Republic of Korea Navy (ROKN), MAR 2014 - FEB 2016"
 #    advisor: "-"
