@@ -164,8 +164,7 @@ interests:
 #  - name: "Earth System Modeling"
 #  - name: "Marine Biogeochemical Circulation"
   
-#references:
-#  - name: "Erlich Bachman"
-#    reference: >
-#      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#      Company proved that he will be a valuable addition to any company.
+references:
+  - name: "Peer Reviews"
+    reference: >
+      Journal of Climate, Nature Climate Change
