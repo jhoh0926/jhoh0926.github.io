@@ -65,9 +65,10 @@ education:
     studyType: "B.S."
     startDate: "2013-03-01"
     endDate: "2019-02-22"
-    city: "Pusan"
-    country: "Republic of Korea"
+#    city: "Pusan"
+#    country: "Republic of Korea"
     course:
+        - "City / Country : Pusan, Republic of Korea"
         - "Mandatory Military Service : Republic of Korea Navy (ROKN), MAR 2014 - FEB 2016"
 #    advisor: "-"
     
@@ -82,10 +83,11 @@ education:
     startDate: "2019-03-01"
     endDate: "2021-02-05"
 #    thesis: "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
-    city: "Pohang"
-    country: "Republic of Korea"
+#    city: "Pohang"
+#    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
+        - "City / Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
 
@@ -95,10 +97,11 @@ education:
     startDate: "2021-03-01"
     endDate: "2024-02-02"
 #    thesis: "Dissertation : Irreversibility of the global climate system and its potential predictability"
-    city: "Pohang"
-    country: "Republic of Korea"
+#    city: "Pohang"
+#    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
+        - "City / Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Dissertation : Irreversibility of the global climate system and its potential predictability"
 
@@ -167,4 +170,4 @@ interests:
 references:
   - name: "Peer Reviews"
     reference: >
-      Journal of Climate, Nature Climate Change
+      __Journal of Climate__, __Nature Climate Change__
