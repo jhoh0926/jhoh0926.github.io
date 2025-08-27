@@ -11,11 +11,11 @@ basics:
   summary: >
     My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. Beyond research, I enjoy going to the gym, snowboarding, and exploring the beautiful landscapes in San Diego and across California. Feel free to reach out to me via email with any questions or inquiries.
   location:
-    address: "Scripps Institution of Oceanography / UC San Diego"
+    address: "Scripps Institution of Oceanography, UC San Diego"
 #    postalCode: "92093"
-    city: " / San Diego"
-    countryCode: " / USA"
-    region: " / CA"
+    city: "San Diego"
+    countryCode: "USA"
+    region: "CA"
   profiles:
 #    - network: "Twitter"
 #      username: "jhoh0926"
@@ -73,8 +73,8 @@ education:
 #    city: "Pusan"
 #    country: "Republic of Korea"
     courses:
-        - "City / Country : Pusan / Republic of Korea"
-        - "Mandatory Military Service : Republic of Korea Navy / Patrol Combat Corvette (PCC)-775 / Mar 2014 - Feb 2016"
+        - "Location : Pusan, Republic of Korea"
+        - "Mandatory Military Service : Republic of Korea Navy, Patrol Combat Corvette (PCC)-775, Mar 2014 - Feb 2016"
 #    advisor: "-"
     
 #    gpa: "4.18 (4.5)"
@@ -92,7 +92,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City / Country : Pohang / Republic of Korea"
+        - "Location : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
 
@@ -106,7 +106,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City / Country : Pohang / Republic of Korea"
+        - "Location : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Dissertation : Irreversibility of the global climate system and its potential predictability"
 
@@ -132,7 +132,7 @@ awards:
   - title: "Grant (RS-2025-02653909)"
     date: "2025-09-01"
     awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
-    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation / Principal Investigator / ~43,000 USD / Sep 2025 - Aug 2026"
+    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation (RS-2025-02653909) / Principal Investigator / ~43,000 USD / Sep 2025 - Aug 2026"
     
 #publications:
 #  - name: "Video compression for 3d media"
