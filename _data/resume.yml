@@ -11,7 +11,7 @@ basics:
   summary: >
     My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. Beyond research, I enjoy going to the gym, snowboarding, and exploring the beautiful landscapes in San Diego and across California. Feel free to reach out to me via email with any questions or inquiries.
   location:
-    address: "Scripps Insitution of Oceanography, UC San Diego"
+    address: "Scripps Institution of Oceanography, UC San Diego"
 #    postalCode: "92093"
     city: "La Jolla, San Diego"
     countryCode: "United States"
@@ -83,6 +83,8 @@ education:
     city: "Pohang"
     country: "South Korea"
     advisor: "Prof. Jong-Seong Kug"
+    courses:
+        - "Advisor : Prof. Jong-Seong Kug"
 
   - institution: "Pohang University of Science and Technology (POSTECH)"
     area: "Department of Environmental Science and Engineering"
