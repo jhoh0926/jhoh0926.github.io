@@ -66,7 +66,9 @@ education:
     startDate: "2013-03-01"
     endDate: "2019-02-22"
     city: "Pusan"
-    country: "South Korea"
+    country: "Republic of Korea"
+    course:
+        - "Mandatory Military Service : Republic of Korea Navy (ROKN), MAR 2014 - FEB 2016"
 #    advisor: "-"
     
 #    gpa: "4.18 (4.5)"
@@ -81,10 +83,11 @@ education:
     endDate: "2021-02-05"
 #    thesis: "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
     city: "Pohang"
-    country: "South Korea"
-    advisor: "Prof. Jong-Seong Kug"
+    country: "Republic of Korea"
+#    advisor: "Prof. Jong-Seong Kug"
     courses:
         - "Advisor : Prof. Jong-Seong Kug"
+        - "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
 
   - institution: "Pohang University of Science and Technology (POSTECH)"
     area: "Department of Environmental Science and Engineering"
@@ -93,32 +96,35 @@ education:
     endDate: "2024-02-02"
 #    thesis: "Dissertation : Irreversibility of the global climate system and its potential predictability"
     city: "Pohang"
-    country: "South Korea"
-    advisor: "Prof. Jong-Seong Kug"
-
-grants:
-  - title: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Meridional Overturning Circulation, PI, ~45,500 USD, RS-2025-02653909"
-    startDate: "2025-09-01"
-    endDate: "2026-08-30"
-    awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
+    country: "Republic of Korea"
+#    advisor: "Prof. Jong-Seong Kug"
+    courses:
+        - "Advisor : Prof. Jong-Seong Kug"
+        - "Dissertation : Irreversibility of the global climate system and its potential predictability"
 
 awards:
   - title: "Best Poster Award"
     date: "2019-06-01"
     awarder: "Korea Hydrographic and Oceanographic Agency (KHOA)"
-    summary: "There is no spoon."
+#    summary: "There is no spoon."
 
   - title: "Best Poster Award"
     date: "2023-04-01"
     awarder: "Korean Meteorological Society (KMS)"
 
-  - title: "Best Dissertation Award in the field of Natural Science (2023 Sung-Kee Chung Award)"
+  - title: "Sung-Kee Chung Award"
     date: "2024-02-01"
     awarder: "Pohang University of Science and Technology (POSTECH)"
+    summary: "POSTECH Honor (Most Outstanding Ph.D. Graduate in the Field of Natural Science)"
     
   - title: "Best Doctoral Dissertation Award"
     date: "2024-10-01"
-    awarder: "Korean Meteorological Society (KMS)"  
+    awarder: "Korean Meteorological Society (KMS)"
+  
+  - title: "Grant (RS-2025-02653909)"
+    date: "2025-09-01"
+    awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
+    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation, PI, ~43,000 USD, SEP 2025 - AUG 2026"
     
 #publications:
 #  - name: "Video compression for 3d media"
