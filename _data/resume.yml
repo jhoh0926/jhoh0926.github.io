@@ -68,8 +68,8 @@ education:
 #    city: "Pusan"
 #    country: "Republic of Korea"
     courses:
-        - "City / Country : Pusan, Republic of Korea"
-        - "Mandatory Military Service : Republic of Korea Navy (ROKN), MAR 2014 - FEB 2016"
+        - "City, Country : Pusan, Republic of Korea"
+        - "Mandatory Military Service : Republic of Korea Navy, MAR 2014 - FEB 2016"
 #    advisor: "-"
     
 #    gpa: "4.18 (4.5)"
@@ -87,7 +87,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City / Country : Pohang, Republic of Korea"
+        - "City, Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
 
@@ -101,7 +101,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City / Country : Pohang, Republic of Korea"
+        - "City, Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Dissertation : Irreversibility of the global climate system and its potential predictability"
 
@@ -157,10 +157,9 @@ interests:
   - name: "Research Interests"
     keywords:
       - "Climate Dynamics"
-      - "Irreversibility and tipping point of climate system"
-      - "Atlantic Meridional Overturning Circulation"
+      - "Climate Change"
+      - "Tipping Point"
       - "Earth System Modeling"
-      - "Marine Biogeochemical Circulation"
       
 #  - name: "Irreversibility and tipping point of climate system"
 #  - name: "Atlantic Meridional Overturning Circulation"
@@ -170,4 +169,4 @@ interests:
 references:
   - name: "Peer Reviews"
     reference: >
-      __Journal of Climate__, __Nature Climate Change__
+      Journal of Climate, Nature Climate Change
