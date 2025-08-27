@@ -68,8 +68,8 @@ education:
 #    city: "Pusan"
 #    country: "Republic of Korea"
     courses:
-        - "City, Country : Pusan, Republic of Korea"
-        - "Mandatory Military Service : Republic of Korea Navy, MAR 2014 - FEB 2016"
+        - "City / Country : Pusan, Republic of Korea"
+        - "Mandatory Military Service : Republic of Korea Navy, Mar 2014 - Feb 2016"
 #    advisor: "-"
     
 #    gpa: "4.18 (4.5)"
@@ -87,7 +87,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City, Country : Pohang, Republic of Korea"
+        - "City / Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Thesis : Impact of Antarctic meltwater forcing on East Asia under greenhouse warming"
 
@@ -101,7 +101,7 @@ education:
 #    country: "Republic of Korea"
 #    advisor: "Prof. Jong-Seong Kug"
     courses:
-        - "City, Country : Pohang, Republic of Korea"
+        - "City / Country : Pohang, Republic of Korea"
         - "Advisor : Prof. Jong-Seong Kug"
         - "Dissertation : Irreversibility of the global climate system and its potential predictability"
 
@@ -127,7 +127,7 @@ awards:
   - title: "Grant (RS-2025-02653909)"
     date: "2025-09-01"
     awarder: "National Research Foundation of Korea (NRF) Basic Science Research Program"
-    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation, PI, ~43,000 USD, SEP 2025 - AUG 2026"
+    summary: "Evaluation of Climate Change Uncertainty Post-Carbon Neutrality: Forthcoming Tipping Point of the Atlantic Ocean Circulation, PI, ~43,000 USD, Sep 2025 - Aug 2026"
     
 #publications:
 #  - name: "Video compression for 3d media"
