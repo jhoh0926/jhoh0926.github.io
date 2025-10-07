@@ -8,40 +8,40 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-10.  North Atlantic salinity extremes emerge under a weakened Atlantic Meridional Overturning Circulation (to be submitted)<br>
-T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
-
-9.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
+8.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
-8.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
-J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
-
-7.  Abrupt amplification of uncertainty in Atlantic Meridional Overturning Circulation near its tipping point, __Nature Communications__ (in revision)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
-
-6.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
-S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
-
-5.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
-D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
-
-4.  Persistent global land aridification under climate mitigation scenarios, __Communications Earth & Environment__ (in revision)<br>
-J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
-
-3.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, (in prep)<br>
+7.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, (to be submitted)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-2.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __npj Climate and Atmospheric Science__ (in revision)<br>
-J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
+6.  North Atlantic salinity extremes emerge under a weakened AMOC (submitted)<br>
+T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
-1.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario, __Journal of Climate__ (under review)<br>
-X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
+5.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
+J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
+
+4.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__ (in revision)<br>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
+
+3.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
+S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
+
+2.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
+D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
+
+1.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __npj Climate and Atmospheric Science__ (accepted)<br>
+J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
-<span style="color: DodgerBlue; font-size:120%"> __2025 (2)__</span>  
+<span style="color: DodgerBlue; font-size:120%"> __2025 (4)__</span>  
+
+17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>
+X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
+
+16.  Land aridification persists in vulnerable drylands under climate mitigation scenarios (2025), __Communications Earth & Environment__, 6, 1, 732 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s43247-025-02742-y)]__</span>
+J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
 15.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers (2025), __Biogeosciences__, 22, 13  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.5194/bg-22-3165-2025)]__</span>   
 D.-G. Lee, __<U>J.-H. Oh</U>__, J. Kam, J.-S. Kug<sup>__\*__</sup>
