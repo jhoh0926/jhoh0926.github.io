@@ -37,10 +37,10 @@ J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</s
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (4)__</span>  
 
-17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>
+17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
 
-16.  Land aridification persists in vulnerable drylands under climate mitigation scenarios (2025), __Communications Earth & Environment__, 6, 1, 732 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s43247-025-02742-y)]__</span>
+16.  Land aridification persists in vulnerable drylands under climate mitigation scenarios (2025), __Communications Earth & Environment__, 6, 1, 732 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s43247-025-02742-y)]__</span>    
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
 
 15.  Phytoplankton blooming mechanisms over the East China Sea during post El-Niño summers (2025), __Biogeosciences__, 22, 13  <span style="color: DodgerBlue"> __[[link](https://doi.org/10.5194/bg-22-3165-2025)]__</span>   
