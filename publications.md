@@ -8,34 +8,34 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-8.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
+7.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
-7.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, (to be submitted)<br>
+6.  Reconciled warning signals in observations and models imply approaching AMOC tipping point, (to be submitted)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-6.  North Atlantic salinity extremes emerge under a weakened AMOC (submitted)<br>
+5.  North Atlantic salinity extremes emerge under a weakened AMOC (submitted)<br>
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
-5.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
+4.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (under review)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
-4.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__ (in revision)<br>
+3.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__ (in revision)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-3.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
+2.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-2.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
+1.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
 D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
-
-1.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s, __npj Climate and Atmospheric Science__ (accepted)<br>
-J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (4)__</span>  
+
+18.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/npjclimatsci/research-articles)]__</span>    
+J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
 17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
