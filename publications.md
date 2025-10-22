@@ -34,7 +34,7 @@ D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (4)__</span>  
 
-18.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 1, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/npjclimatsci/research-articles)]__</span>    
+18.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 1, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41612-025-01220-8)]__</span>    
 J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
 17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
