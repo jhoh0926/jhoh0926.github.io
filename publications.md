@@ -8,31 +8,37 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-7.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
+8.  Oh & Xie (in Prep)<br>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie
+
+7.  AI-driven diagnostics of large ensembles calls for revisiting AMOC tipping risk (to be submitted)<br>
+Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
+
+6.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
-6.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (to be submitted)<br>
+5.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (to be submitted)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-5.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (under review)<br>
+4.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (under review)<br>
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
-4.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (in revision)<br>
+3.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (in revision)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
-3.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
+2.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
-2.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
+1.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__ (in revision)<br>
 D. Lee, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, J. Kam, S.-W. Park  
-
-1.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__ (accepted)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
-<span style="color: DodgerBlue; font-size:120%"> __2025 (5)__</span>  
+<span style="color: DodgerBlue; font-size:120%"> __2025 (6)__</span>  
+
+19.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__, 16, 11515 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-025-66494-1)]__</span>   
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
 18.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 1, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41612-025-01220-8)]__</span>    
 J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
