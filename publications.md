@@ -34,7 +34,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2026 (1)__</span>  
 
-20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/pii/S0301479725044226?via%3Dihub)]__</span>
+20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/pii/S0301479725044226?via%3Dihub)]__</span>   
 D. Lee, __<U>J.-H. Oh</U>__, J. Kam, S.-W. Park, J.-S. Kug<sup>__\*__</sup>  
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (6)__</span>  
