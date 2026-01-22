@@ -2,22 +2,22 @@
 layout: list
 title: Publications
 description: > 
- <span style="font-size:150%"> ( __†__ : __co-first author__, __*__ : __corresponding author__ )</span>  
+ <span style="font-size:150%"> __†__ : __equally contributed__ / __*__ : __corresponding author__</span>  
 --- 
 <!--sitemap: false-->
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-7.  Oh & Xie (in Prep)<br>
+7.  Oh & Xie (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie
 
-6.  AI-driven diagnostics of large ensembles calls for revisiting AMOC tipping risk (to be submitted)<br>
+6.  AI-driven diagnostics of large ensembles calls for revisiting AMOC tipping risk (in prep)<br>
 Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
 
-5.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation collapse (to be submitted)<br>
+5.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation slowdown (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
 
-4.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (to be submitted)<br>
+4.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
 3.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (under review)<br>
@@ -34,7 +34,7 @@ S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2026 (1)__</span>  
 
-20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/pii/S0301479725044226?via%3Dihub)]__</span>   
+20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/abs/pii/S0301479725044226?via%3Dihub)]__</span>   
 D. Lee, __<U>J.-H. Oh</U>__, J. Kam, S.-W. Park, J.-S. Kug<sup>__\*__</sup>  
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (6)__</span>  
