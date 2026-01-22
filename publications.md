@@ -42,11 +42,11 @@ D. Lee, __<U>J.-H. Oh</U>__, J. Kam, S.-W. Park, J.-S. Kug<sup>__\*__</sup>
 19.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__, 16, 11515 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-025-66494-1)]__</span>   
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
-18.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 1, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41612-025-01220-8)]__</span>    
-J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
-
-17.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
+18.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
 X. Geng, __<U>J.-H. Oh</U>__, Y. Shin, J. Shin, K.-M. Noh, J.-S. Kug<sup>__\*__</sup>, S.-W. Park
+
+17.  Arctic stratospheric ozone as a precursor of ENSO events since 2000s (2025), __npj Climate and Atmospheric Science__, 8, 1, 338 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41612-025-01220-8)]__</span>    
+J.-H. Park<sup>__\*__</sup>, J.-H. Koo<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-J. Lee, M.-K. Sung, J. Kim, E.-C. Chang, Y.-M. Yang, S.-S. Park, K.-H. Kwak, __<U>J.-H. Oh</U>__, H.-J. Kang, S.-I. An
 
 16.  Land aridification persists in vulnerable drylands under climate mitigation scenarios (2025), __Communications Earth & Environment__, 6, 1, 732 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s43247-025-02742-y)]__</span>    
 J. Piao, W. Chen<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S. Chen, __<U>J.-H. Oh</U>__, L. Wang, Q. Cai 
