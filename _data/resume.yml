@@ -30,7 +30,7 @@ basics:
 work:
   - company: "Scripps Institution of Oceanography (SIO)"
     position: "Postdoctoral Research Associate"
-    website: "https://scholar.google.com/citations?hl=ko&user=vGEx6O0AAAAJ"
+    website: "https://scripps.ucsd.edu"
     startDate: "2024-12-01"
     endDate: ""
 #    advisor: "Prof. Shang-Ping Xie"
@@ -39,7 +39,7 @@ work:
 
   - company: "Seoul National University (SNU)"
     position: "Postdoctoral Research Associate"
-    website: "https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en"
+    website: "https://sees.snu.ac.kr/en"
     startDate: "2024-03-01"
     endDate: "2024-11-30"
 #    advisor: "Prof. Jong-Seong Kug"
