@@ -4,7 +4,6 @@ title: Publications
 description: > 
  <span style="font-size:130%"> __†__ : __equally contributed__</span><br>   
  <span style="font-size:130%"> __*__ : __corresponding author__</span><br>   
-<span style="font-size:130%"><span style="color: DodgerBlue;">__blue text__</span> : __lead author__</span>   
 --- 
 <!--sitemap: false-->
 ---
