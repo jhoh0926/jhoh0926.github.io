@@ -11,6 +11,8 @@ description: >
   Journal : Nature Communications
   <br>
   Authors : __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
+  <br>
+  Media : <span style="color: DodgerBlue"> __[[Video1🇰🇷](https://youtu.be/Hue-7jhfw5E?si=sI0hotxI2iFWVjQH)]__</span> <span style="color: DodgerBlue"> __[[Video2🇰🇷](https://youtu.be/6V-kk7cY0YQ?si=R43uMHmDrq-swftM)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://www.dongascience.com/news/76210)]__</span> <span style="color: DodgerBlue"> __[[News🇨🇳](https://mp.weixin.qq.com/s/h_-1Spm0eIkPFfstum_-DQ)]__</span>
   
 date: '13-12-2025'
 image: 

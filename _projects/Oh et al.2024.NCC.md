@@ -11,6 +11,8 @@ description: >
   Journal : Nature Climate Change
   <br>
   Authors : __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
+  <br>
+  Media : <span style="color: DodgerBlue"> __[[Video1🇰🇷](https://youtu.be/Lxo1UEJrMUI?si=UYvxpx_MjJZPTjSY)]__</span> <span style="color: DodgerBlue"> __[[Video2🇰🇷](https://youtu.be/zWfQAuVmVKQ?si=ryfkIhOdp5zn9xv3)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://news.kbs.co.kr/news/pc/view/view.do?ncd=7882187)]__</span>
   
 date: '01-02-2024'
 image: 
