@@ -2,9 +2,11 @@
 layout: list
 title: Publications
 description: > 
- <span style="font-size:150%"> __†__ : __equally contributed__</span><br>   
- <span style="font-size:150%"> __†__ : __equally contributed__</span><br>   
- <span style="color: DodgerBlue; font-size:150%"> __Blue__ : __lead author__</span>   
+ <span style="font-size:110%"> __†__ : __equally contributed__</span><br>   
+ <span style="font-size:110%"> __*__ : __corresponding author__</span><br>   
+ <span style="font-size:110%">
+  <span style="color: DodgerBlue;">__blue text__</span> : __lead author__
+</span>
 --- 
 <!--sitemap: false-->
 ---
