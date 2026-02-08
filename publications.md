@@ -101,5 +101,5 @@ J.-S. Kug<sup>__\*†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>
 
 <span style="color: DodgerBlue; font-size:120%"> __2020 (1)__</span>  
 
-1. Impact of Antarctic meltwater forcing on East Asian climate under greenhouse warming (2020), __Geophysical Research Letters__, 47, 21, e2020GL089951 <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089951)]__</span>  
+1. Impact of Antarctic meltwater forcing on East Asian climate under greenhouse warming (2020), __Geophysical Research Letters__, 47, 21, e2020GL089951 <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089951)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://blog.naver.com/newspenguin1/223734668565)]__</span>    
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, W.-S. Park, H.-G. Lim, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup>
