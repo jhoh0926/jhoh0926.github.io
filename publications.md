@@ -39,7 +39,7 @@ D. Lee, __<U>J.-H. Oh</U>__, J. Kam, S.-W. Park, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2025 (6)__</span>  
 
-19.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__, 16, 11515 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-025-66494-1)]__</span>   
+19.  Noise-induced tipping of Atlantic Meridional Overturning Circulation under climate mitigation scenarios, __Nature Communications__, 16, 11515 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-025-66494-1)]__</span>   <span style="color: DodgerBlue"> __[[Video🇰🇷](https://youtu.be/Hue-7jhfw5E?si=sI0hotxI2iFWVjQH)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://www.dongascience.com/news/76210)]__</span> <span style="color: DodgerBlue"> __[[News🇨🇳](https://mp.weixin.qq.com/s/h_-1Spm0eIkPFfstum_-DQ)]__</span>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, Y. Shin, X. Geng, S. Wang, F.-F. Jin, S.-I. An, S.-P. Xie, W. Liu
 
 18.  Non-monotonic future changes in the North Atlantic warming hole under a fast CO<sub>2</sub> emission scenario (2025), __Journal of Climate__, 38, 21, 6011-6023 <span style="color: DodgerBlue"> __[[link](https://journals.ametsoc.org/view/journals/clim/38/21/JCLI-D-24-0437.1.xml)]__</span>    
@@ -74,7 +74,7 @@ G.-I. Kim, __<U>J.-H. Oh</U>__, N.-Y. Shin, S.-I. An, S.-W. Yeh, J. Shin, J.-S. 
 9. 	Fast and slow responses of Atlantic Meridional Overturning Circulation to Antarctic meltwater forcing (2024), __Geophysical Research Letters__, 51, 9, e2024GL108272<span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108272)]__</span>    
 Y. Shin, X. Geng, __<U>J.-H. Oh</U>__, K.-M. Noh, E. K. Jin, J.-S. Kug<sup>__\*__</sup> 
 
-8.  Emergent climate change patterns originating from deep ocean warming in climate mitigation scenarios (2024), __Nature Climate Change__, 14, 3, 260-266 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-024-01928-0)]__</span>    
+8.  Emergent climate change patterns originating from deep ocean warming in climate mitigation scenarios (2024), __Nature Climate Change__, 14, 3, 260-266 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-024-01928-0)]__</span> <span style="color: DodgerBlue"> __[[Video1🇰🇷](https://youtu.be/Lxo1UEJrMUI?si=UYvxpx_MjJZPTjSY)]__</span> <span style="color: DodgerBlue"> __[[Video2🇰🇷](https://youtu.be/zWfQAuVmVKQ?si=ryfkIhOdp5zn9xv3)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://news.kbs.co.kr/news/pc/view/view.do?ncd=7882187)]__</span>   
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
 
 7. 	Role of Atlantification in enhanced primary productivity in the Barents Sea (2024), __Earth’s Future__, 12, 1, e2023EF003709 <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003709?af=R)]__</span>    
