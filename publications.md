@@ -10,18 +10,18 @@ description: >
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
 7.  Oh & Xie (in prep)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, S.-P. Xie
 
-6.  AI-driven diagnostics of large ensembles calls for revisiting AMOC tipping risk (in prep)<br>
-Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
-
-5.  Ocean fronts as hotspots of amplified climate variability shaped by Atlantic Meridional Overturning Circulation slowdown (in prep)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug<sup>__\*__</sup>, G.-I. Kim, J.-H. Park, Y. Yamagami, S.-P. Xie, A. Miyamoto, B. Wu
-
-4.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
+6.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-3.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (under review)<br>
+5.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (submitted)<br>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
+
+4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models, __Nature__ (in revision)<br>
+Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
+
+3.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (in revision)<br>
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 2.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (in revision)<br>
