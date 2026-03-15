@@ -13,7 +13,7 @@ basics:
   location:
     address: "Scripps Institution of Oceanography, UC San Diego"
 #    postalCode: "92093"
-    city: "San Diego"
+    city: "San Diego, La Jolla"
     countryCode: "USA"
     region: "CA"
   profiles:
@@ -28,8 +28,8 @@ basics:
       url: "https://scholar.google.com/citations?user=GkoNooMAAAAJ&hl=en"
 
 work:
-  - company: "Scripps Institution of Oceanography (SIO)"
-    position: "Postdoctoral Research Associate"
+  - company: "Scripps Institution of Oceanography (SIO) / UCSD"
+    position: "Postdoctoral Researcher"
     website: "https://scripps.ucsd.edu"
     startDate: "2024-12-01"
     endDate: ""
@@ -38,7 +38,7 @@ work:
       - "Supervisor : Prof. Shang-Ping Xie"
 
   - company: "Seoul National University (SNU)"
-    position: "Postdoctoral Research Associate"
+    position: "Postdoctoral Researcher"
     website: "https://sees.snu.ac.kr/en"
     startDate: "2024-03-01"
     endDate: "2024-11-30"
@@ -172,6 +172,6 @@ interests:
 #  - name: "Marine Biogeochemical Circulation"
   
 references:
-  - name: "Journal of Climate (2), Nature Climate Change (1)"
+  - name: "Journal of Climate (2), Nature Climate Change (1), Geophysical Research Letters (1)"
     reference: >
       Peer Reviews
