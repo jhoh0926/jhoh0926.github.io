@@ -15,10 +15,10 @@ description: >
 7.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-6.  Antarctic meltwater amplifies nutrient depletion under global warming (submitted)<br>
+6.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
-5.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (submitted)<br>
+5.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
 4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models, __Nature__ (in revision)<br>
