@@ -9,34 +9,34 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-8.  Oh & Xie (in prep)<br>
+7.  Oh & Xie (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, S.-P. Xie
 
-7.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
+6.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-6.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
+5.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
-5.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (under review)<br>
+4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
-4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models, __Nature__ (in revision)<br>
+3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models, __Nature__ (in revision)<br>
 Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
 
-3.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (in revision)<br>
-T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
-
-2.  Climate change hysteresis and irreversibility, __Nature Climate Change__ (in revision)<br>
+2.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal, __Nature Climate Change__ (in revision)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
-1.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ (in revision)<br>
-S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
+1.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (accepted)<br>
+T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
-<span style="color: DodgerBlue; font-size:120%"> __2026 (1)__</span>  
+<span style="color: DodgerBlue; font-size:120%"> __2026 (2)__</span>  
+
+21.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ ???, ??? <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-026-72898-4)]__</span>   
+S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/abs/pii/S0301479725044226?via%3Dihub)]__</span>   
 D. Lee, __<U>J.-H. Oh</U>__, J. Kam, S.-W. Park, J.-S. Kug<sup>__\*__</sup>  
