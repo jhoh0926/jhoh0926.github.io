@@ -21,13 +21,13 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
-3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models, __Nature__ (in revision)<br>
+3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
 Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
 
-2.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal, __Nature Climate Change__ (in revision)<br>
-J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-S. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
+2.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal (in revision)<br>
+J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
 
-1.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown, __Nature Communications__ (accepted)<br>
+1.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown (accepted)<br>
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 ---
