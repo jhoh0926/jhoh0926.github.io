@@ -18,7 +18,7 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 5.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
-4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream Extensions (under review)<br>
+4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
 3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
@@ -86,7 +86,7 @@ K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, J.-S. Kug<sup>__\*__</sup>
 
 <span style="color: DodgerBlue; font-size:120%"> __2023 (2)__</span>  
 
-6. 	Increase in convective Extreme El Nino events in the CO2 removal scenario (2023), __Science Advances__, 9, 25, eadh2412 <span style="color: DodgerBlue"> __[[link](https://www.science.org/doi/10.1126/sciadv.adh2412)]__</span>    
+6. 	Increase in convective Extreme El Nino events in the CO<sub>2</sub> removal scenario (2023), __Science Advances__, 9, 25, eadh2412 <span style="color: DodgerBlue"> __[[link](https://www.science.org/doi/10.1126/sciadv.adh2412)]__</span>    
 Pathirana. G, __<U>J.-H. Oh</U>__, W. Cai, S.-I. An, S.-K. Min, S.-Y. Jo, J. Shin, J.-S. Kug<sup>__\*__</sup>
 
 5. 	What controls the future phytoplankton change over Yellow and East China Seas under global warming? (2023), __Frontiers in Marine Science__, 10, 1010341 <span style="color: DodgerBlue"> __[[link](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1010341/full)]__</span>    
@@ -100,7 +100,7 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, K.-M. Noh, E.-Y. Kwon, Y.-H. Kim, J.-S. Kug<sup>
 3.  Antarctic meltwater-induced dynamical changes in phytoplankton in the Southern Ocean (2022), __Environmental Research Letters__, 17, 2, 024022 <span style="color: DodgerBlue"> __[[link](https://iopscience.iop.org/article/10.1088/1748-9326/ac444e)]__</span>    
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug<sup>__\*__</sup>
 
-2. 	Hysteresis of intertropical convergence zone to CO2 forcing (2022), __Nature Climate Change__, 12, 1, 47-53 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://www.postech.ac.kr/kor/research-industry-academia/research-results.do?mode=view&articleNo=7397&title=환경+국종성+교수팀%2C+이미+늘어난+이산화탄소+줄여도+과거+기후로+돌아갈+수+없다)]__</span> <span style="color: DodgerBlue"> __[[News in NCC🇬🇧🇺🇸](https://www.nature.com/articles/s41558-021-01237-w)]__</span>    
+2. 	Hysteresis of intertropical convergence zone to CO<sub>2</sub> forcing (2022), __Nature Climate Change__, 12, 1, 47-53 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://www.postech.ac.kr/kor/research-industry-academia/research-results.do?mode=view&articleNo=7397&title=환경+국종성+교수팀%2C+이미+늘어난+이산화탄소+줄여도+과거+기후로+돌아갈+수+없다)]__</span> <span style="color: DodgerBlue"> __[[News in NCC🇬🇧🇺🇸](https://www.nature.com/articles/s41558-021-01237-w)]__</span>    
 J.-S. Kug<sup>__\*†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__†__</sup></span>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
 
 <span style="color: DodgerBlue; font-size:120%"> __2020 (1)__</span>  
