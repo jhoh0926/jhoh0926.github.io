@@ -32,10 +32,10 @@ J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.
 
 <span style="color: DodgerBlue; font-size:120%"> __2026 (3)__</span>  
 
-22.  AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels __Nature Communications__ ???, ??? <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-026-73838-y)]__</span>   
+22.  AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels __Nature Communications__, ???, ??? <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-026-73838-y)]__</span>   
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
-21.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ ???, ??? <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-026-72898-4)]__</span>   
+21.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__, ???, ??? <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-026-72898-4)]__</span>   
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
 
 20.  Biophysical impacts of urbanization on climate change and vegetation in Borneo island, __Journal of Environmental Management__, 398, 128446 <span style="color: DodgerBlue"> __[[link](https://www.sciencedirect.com/science/article/abs/pii/S0301479725044226?via%3Dihub)]__</span>   
