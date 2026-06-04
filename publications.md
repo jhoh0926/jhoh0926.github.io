@@ -9,31 +9,31 @@ description: >
 ---
  <span style="color: DodgerBlue; font-size:150%"> __In Progress__</span>  
 
-7.  Oh & Xie (in prep)<br>
+6.  Oh & Xie (in prep)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, S.-P. Xie
 
-6.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
+5.  Reconciled warning signals in observations and models imply approaching AMOC tipping point (in prep)<br>
 Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iwakiri, G.-I. Kim, H. Kim, N. Boers<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>
 
-5.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
+4.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
-4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
+3.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
-3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
+2.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
 Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
 
-2.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal (in revision)<br>
+1.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal (in revision)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
-
-1.  Emergence of unprecedented North Atlantic salinity extremes under AMOC slowdown (accepted)<br>
-T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
 
-<span style="color: DodgerBlue; font-size:120%"> __2026 (2)__</span>  
+<span style="color: DodgerBlue; font-size:120%"> __2026 (3)__</span>  
+
+22.  AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels __Nature Communications__ ???, ??? <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-026-73838-y)]__</span>   
+T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 21.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__ ???, ??? <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-026-72898-4)]__</span>   
 S. Wang, Y. Shin, __<U>J.-H. Oh</U>__, H. Kim, J.-S. Kug<sup>__\*__</sup>
