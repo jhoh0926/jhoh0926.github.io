@@ -32,7 +32,7 @@ J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.
 
 <span style="color: DodgerBlue; font-size:120%"> __2026 (3)__</span>  
 
-22.  AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels __Nature Communications__, ???, ??? <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-026-73838-y)]__</span>   
+22.  AMOC slowdown amplifies North Atlantic salinity variability to unprecedented levels __Nature Communications__, 17, 7021 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41467-026-73838-y)]__</span>   
 T. Iwakiri<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, S.-I. An, Y. Shin, __<U>J.-H. Oh</U>__, S. Wang
 
 21.  Critical role of low cloud feedback in irreversible sea level rise, __Nature Communications__, 17, 6292 <span style="color: DodgerBlue"> __[[link](https://doi.org/10.1038/s41467-026-72898-4)]__</span>   
