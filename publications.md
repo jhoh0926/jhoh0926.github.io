@@ -16,7 +16,7 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
 4.  Centennial southward migration of tropical rain belt in a post-zero emissions world (under review)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span>, S.-P. Xie
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span> and S.-P. Xie
 
 3.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
