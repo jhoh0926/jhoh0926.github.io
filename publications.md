@@ -15,14 +15,14 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 5.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug<sup>__\*__</sup>
 
-4.  Centennial southward migration of tropical rain belt in a post-zero emissions world (under review)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span> and S.-P. Xie
-
-3.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
+4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie<sup>__\*__</sup>, J.-S. Kug<sup>__\*__</sup>, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
-2.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
+3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (under review)<br>
 Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug<sup>__\*__</sup>
+
+2.  Centennial southward migration of tropical rain belt in a post-zero emissions world (in revision)<br>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span> and S.-P. Xie
 
 1.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal (in revision)<br>
 J.-S. Kug<sup>__\*__</sup>, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld

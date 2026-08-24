@@ -13,7 +13,7 @@ basics:
   location:
     address: "Scripps Institution of Oceanography, UC San Diego"
 #    postalCode: "92093"
-    city: "San Diego, La Jolla"
+    city: "La Jolla"
     countryCode: "USA"
     region: "CA"
   profiles:
