@@ -16,7 +16,7 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug
 
 5.  An intermediate state of Atlantic Meridional Overturning Circulation anchored by warm subtropical deep convection (submitted)<br>
-Q. Ren S.-P. Xie, A. Hu, __<U>J.-H. Oh</U>__,  Z.-H. Fu, Y. Li, F. Wang
+Q. Ren, S.-P. Xie, A. Hu, __<U>J.-H. Oh</U>__,  Z.-H. Fu, Y. Li, F. Wang
 
 4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie, J.-S. Kug, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
