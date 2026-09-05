@@ -104,7 +104,7 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, K.-M. Noh, E.-Y. Kwon, Y.-H. Kim, J.-S. Kug
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, K.-M Noh, H.-G Lim, E. K. Jin, S.-Y. Jun, J.-S. Kug
 
 2. 	Hysteresis of intertropical convergence zone to CO<sub>2</sub> forcing (2022), __Nature Climate Change__, 12, 1, 47-53 <span style="color: DodgerBlue"> __[[link](https://www.nature.com/articles/s41558-021-01211-6)]__</span> <span style="color: DodgerBlue"> __[[News🇰🇷](https://www.postech.ac.kr/kor/research-industry-academia/research-results.do?mode=view&articleNo=7397&title=환경+국종성+교수팀%2C+이미+늘어난+이산화탄소+줄여도+과거+기후로+돌아갈+수+없다)]__</span> <span style="color: DodgerBlue"> __[[News in NCC🇬🇧🇺🇸](https://www.nature.com/articles/s41558-021-01237-w)]__</span>    
-J.-S. Kug<sup>__\†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__†__</sup></span>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
+J.-S. Kug<sup>__†__</sup>, <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__†__</sup></span>, S.-I. An, S.-W. Yeh, S.-K. Min, S.-W. Son, J. Kam, Y.-G. Ham, J. Shin
 
 <span style="color: DodgerBlue; font-size:120%"> __2020 (1)__</span>  
 
