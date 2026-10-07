@@ -22,13 +22,13 @@ Q. Ren, S.-P. Xie, A. Hu, __<U>J.-H. Oh</U>__,  Z.-H. Fu, Y. Li, F. Wang
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie, J.-S. Kug, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
 3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (under review)<br>
-Y. Shin, N. Boers, Y. Huang, J. Ko, __<U>J.-H. Oh</U>__, J.-S. Kug
+Y. Shin, N. Boers, Y. Huang,  B. Emirzade, J. Ko, J. Kim, __<U>J.-H. Oh</U>__, T. Iwakiri, J.-S. Kug
 
 2.  Centennial southward migration of tropical rain belt in a post-zero emissions world (in revision)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span> and S.-P. Xie
 
 1.  Climate irreversibility and transient hysteresis under CO<sub>2</sub> removal (in revision)<br>
-J.-S. Kug, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu,  S.-W. Son, S.-W. Yeh, S.-I. An, S.-K. Min, J. Schwinger, H. Lee, N.J. Steinert, K. Zickfeld
+J.-S. Kug, Y. Shin, __<U>J.-H. Oh</U>__, C. Liu, S.-W. Yeh, J. Schwinger, K. Zickfeld, S.-I. An, S.-W. Son, S.-K. Min, H. Lee, N.J. Steinert
 
 ---
 <span style="color: DodgerBlue; font-size:150%"> __Published__</span>  
@@ -85,7 +85,7 @@ Y. Shin, X. Geng, __<U>J.-H. Oh</U>__, K.-M. Noh, E. K. Jin, J.-S. Kug
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, J.-S. Kug, S.-I. An, F.-F. Jin, M. McPhaden, J. Shin
 
 7. 	Role of Atlantification in enhanced primary productivity in the Barents Sea (2024), __Earth’s Future__, 12, 1, e2023EF003709 <span style="color: DodgerBlue"> __[[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EF003709?af=R)]__</span>    
-K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, J.-S. Kug
+K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, H. Song, J.-S. Kug
 
 <span style="color: DodgerBlue; font-size:120%"> __2023 (2)__</span>  
 
