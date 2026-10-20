@@ -18,11 +18,11 @@ D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug
 5.  An intermediate state of Atlantic Meridional Overturning Circulation anchored by warm subtropical deep convection (submitted)<br>
 Q. Ren, S.-P. Xie, A. Hu, __<U>J.-H. Oh</U>__,  Z.-H. Fu, Y. Li, F. Wang
 
-4.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (under review)<br>
-<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie, J.-S. Kug, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
-
-3.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (under review)<br>
+4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (under review)<br>
 Y. Shin, N. Boers, Y. Huang,  B. Emirzade, J. Ko, J. Kim, __<U>J.-H. Oh</U>__, T. Iwakiri, J.-S. Kug
+
+3.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (in revision)<br>
+<span style="color: DodgerBlue">__<U>J.-H. Oh</U>__</span>, S.-P. Xie, J.-S. Kug, J.-H. Park, Y. Yamagami, A. Miyamoto, G.-I. Kim, B. Wu
 
 2.  Centennial southward migration of tropical rain belt in a post-zero emissions world (in revision)<br>
 <span style="color: DodgerBlue">__<U>J.-H. Oh</U>__<sup>__\*__</sup></span> and S.-P. Xie
@@ -89,7 +89,7 @@ K.-M. Noh, __<U>J.-H. Oh</U>__, H.-G. Lim, H. Song, J.-S. Kug
 
 <span style="color: DodgerBlue; font-size:120%"> __2023 (2)__</span>  
 
-6. 	Increase in convective Extreme El Nino events in the CO<sub>2</sub> removal scenario (2023), __Science Advances__, 9, 25, eadh2412 <span style="color: DodgerBlue"> __[[link](https://www.science.org/doi/10.1126/sciadv.adh2412)]__</span>    
+6. 	Increase in convective Extreme El Nino events in a CO<sub>2</sub> removal scenario (2023), __Science Advances__, 9, 25, eadh2412 <span style="color: DodgerBlue"> __[[link](https://www.science.org/doi/10.1126/sciadv.adh2412)]__</span>    
 Pathirana. G, __<U>J.-H. Oh</U>__, W. Cai, S.-I. An, S.-K. Min, S.-Y. Jo, J. Shin, J.-S. Kug
 
 5. 	What controls the future phytoplankton change over Yellow and East China Seas under global warming? (2023), __Frontiers in Marine Science__, 10, 1010341 <span style="color: DodgerBlue"> __[[link](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1010341/full)]__</span>    
