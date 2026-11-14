@@ -15,10 +15,10 @@ Y. Shin, __<U>J.-H. Oh</U>__, S. Bathiany, M. Ben-Yami, M. Arthun, H. Lee, T. Iw
 6.  Antarctic meltwater amplifies nutrient depletion under global warming (in prep)<br>
 D.-G. Lee, __<U>J.-H. Oh</U>__, E.-Y. Kwon, J.-S. Kug
 
-5.  An intermediate state of Atlantic Meridional Overturning Circulation anchored by warm subtropical deep convection (submitted)<br>
+5.  An intermediate state of Atlantic Meridional Overturning Circulation anchored by warm subtropical deep convection (in revision)<br>
 Q. Ren, S.-P. Xie, A. Hu, __<U>J.-H. Oh</U>__,  Z.-H. Fu, Y. Li, F. Wang
 
-4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (under review)<br>
+4.  AI emulator highlights underestimated risk of AMOC collapse in current climate models (in revision)<br>
 Y. Shin, N. Boers, Y. Huang,  B. Emirzade, J. Ko, J. Kim, __<U>J.-H. Oh</U>__, T. Iwakiri, J.-S. Kug
 
 3.  Atlantic Meridional Overturning Circulation slowdown amplifies decadal variability along the Kuroshio-Oyashio and Gulf Stream extensions (in revision)<br>
