@@ -9,10 +9,7 @@ permalink: /docs/
 
 <img src="./../assets/img/picture.jpeg" width="500" height="400"/>
 
-Hello and welcome! I'm __Ji-Hoon Oh__, currently a Postdoctoral Researcher at the University of California, Los Angeles (UCLA), working with [Prof. Jasper Kok](https://scholar.google.com/citations?user=LibHGysAAAAJ&hl=en). 
-Previously, I was a Postdoctoral Research Associate at the Scripps Institution of Oceanography, UC San Diego, working with [Prof. Shang-Ping Xie](https://scholar.google.com/citations?user=vGEx6O0AAAAJ&hl=ko&oi=ao), and before that at Seoul National University (SNU). I hold both M.S. and Ph.D. from Pohang University of Science and Technology (POSTECH), where I studied under [Prof. Jong-Seong Kug](https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en). 
-For more details on my academic background, please visit the [CV section](https://jhoh0926.github.io/resume/).
-My research interests are **large-scale climate dynamics**, **Earth system modeling**, **AMOC**, **ITCZ**, **climate irreversibility**, and **geoengineering**.
+Hello and welcome! I'm __Ji-Hoon Oh__, currently a Postdoctoral Researcher at the University of California, Los Angeles (UCLA), working with [Prof. Jasper Kok](https://scholar.google.com/citations?user=LibHGysAAAAJ&hl=en).  Previously, I was a Postdoctoral Research Associate at the Scripps Institution of Oceanography, UC San Diego, working with [Prof. Shang-Ping Xie](https://scholar.google.com/citations?user=vGEx6O0AAAAJ&hl=ko&oi=ao), and before that at Seoul National University (SNU). I hold both M.S. and Ph.D. from Pohang University of Science and Technology (POSTECH), where I studied under [Prof. Jong-Seong Kug](https://scholar.google.com/citations?user=PZF-9w0AAAAJ&hl=en).  My research interests are **large-scale climate dynamics**, **Earth system modeling**, **AMOC**, **ITCZ**, **climate irreversibility**, and **geoengineering (Solar Radiation Management)**.
 For inquiries or collaborations, please contact me at jhoh0926@gmail.com.
 
 {:.note}
