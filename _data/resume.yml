@@ -8,12 +8,12 @@ basics:
   email: "jio006@ucsd.edu"
   phone: "(619) 953 8419"
   website: "https://jhoh0926.github.io"
-  summary: >
-    My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. Beyond research, I enjoy going to the gym, snowboarding, and exploring the beautiful landscapes in San Diego and across California. Feel free to reach out to me via email with any questions or inquiries.
+  # summary: >
+  #   My research focuses on __<U>large-scale climate dynamics</U>__, with a particular interest in the effects of __<U>Antarctic meltwater forcing</U>__ and the __<U>hysteresis and irreversibility</U>__ of the climate system in mitigation scenarios. I specialize in __<U>integrating Earth system models</U>__ to explore these phenomena. I have conducted several large-ensemble climate simulations using both CESM1 and 2 model. I'm recently focusing on the __<U>tipping point of the Atlantic Meridional Overturning Circulation (AMOC)</U>__. Beyond research, I enjoy going to the gym, snowboarding, and exploring the beautiful landscapes in San Diego and across California. Feel free to reach out to me via email with any questions or inquiries.
   location:
-    address: "Scripps Institution of Oceanography, UC San Diego"
+    address: "Atmospheric and Oceanic Sciences Department, UCLA"
 #    postalCode: "92093"
-    city: "La Jolla"
+    city: "Los Angeles"
     countryCode: "USA"
     region: "CA"
   profiles:
@@ -28,6 +28,15 @@ basics:
       url: "https://scholar.google.com/citations?user=GkoNooMAAAAJ&hl=en"
 
 work:
+	- company: "UCLA"
+    position: "Postdoctoral Researcher"
+    website: "https://atmos.ucla.edu"
+    startDate: "2026-12-01"
+    endDate: ""
+#    advisor: "Prof. Jasper Kok"
+    highlights:
+      - "Supervisor : Prof. Jasper Kok"
+      
   - company: "Scripps Institution of Oceanography (SIO) / UCSD"
     position: "Postdoctoral Researcher"
     website: "https://scripps.ucsd.edu"
@@ -163,7 +172,7 @@ interests:
     keywords:
       - "Climate Dynamics"
       - "Climate Change"
-      - "Tipping Point"
+      - "Atlantic Meridional Overturning Circulation"
       - "Earth System Modeling"
       
 #  - name: "Irreversibility and tipping point of climate system"
