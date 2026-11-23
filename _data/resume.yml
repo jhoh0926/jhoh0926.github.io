@@ -28,7 +28,7 @@ basics:
       url: "https://scholar.google.com/citations?user=GkoNooMAAAAJ&hl=en"
 
 work:
-	- company: "UCLA"
+  - company: "UCLA"
     position: "Postdoctoral Researcher"
     website: "https://atmos.ucla.edu"
     startDate: "2026-12-01"
@@ -37,7 +37,7 @@ work:
     highlights:
       - "Supervisor : Prof. Jasper Kok"
       
-  - company: "Scripps Institution of Oceanography (SIO) / UCSD"
+  - company: "Scripps Institution of Oceanography / UCSD"
     position: "Postdoctoral Researcher"
     website: "https://scripps.ucsd.edu"
     startDate: "2024-12-01"
